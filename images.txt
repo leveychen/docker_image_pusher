@@ -3,4 +3,5 @@ gdy666/lucky
 stainless403/mdcx-builtin-gui-base
 ghcr.io/metacubex/metacubexd
 docker.io/metacubex/mihomo:Alpha
+ghcr.io/subboost/subboost:2.9.0
 
